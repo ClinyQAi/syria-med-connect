@@ -4,6 +4,8 @@
 > **Submitted By:** Global Health Mentorships (GHMe) Consortium  
 > **Date:** December 31, 2025
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Launch_App-success?style=for-the-badge&logo=pwa)](https://ClinyQAi.github.io/syria-med-connect/) [![Roadmap](https://img.shields.io/badge/Strategy-Roadmap-blue?style=for-the-badge&logo=github)](ROADMAP.md)
+
 ---
 
 ## 🎯 Executive Summary
