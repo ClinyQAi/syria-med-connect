@@ -1,0 +1,18 @@
+# CODEOWNERS - Defines who must review PRs for different parts of the codebase
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repo
+* @ClinyQAi
+
+# Critical files require owner review
+README.md @ClinyQAi
+LICENSE @ClinyQAi
+
+# All application code
+/app/ @ClinyQAi
+
+# Specifications
+/specs/ @ClinyQAi
+
+# GitHub configuration
+/.github/ @ClinyQAi
